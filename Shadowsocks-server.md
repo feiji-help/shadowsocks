@@ -25,7 +25,7 @@
 
 一般来说，VPS的虚拟化技术主流为 OpenVZ 与 KVM 架构，从各种资源以及 SS 服务支持上，建议选择 KVM 架构的机器，以下所有的说明都是基于[搬瓦工](https://bandwagonhost.com/aff.php?aff=42678)  KVM 建构的机器。
 
-- [搬瓦工aff](https://bandwagonhost.com/aff.php?aff=42678)  
+- [搬瓦工aff](https://bwh88.net/aff.php?aff=51123)  
 
 ## 服务器系统
 
